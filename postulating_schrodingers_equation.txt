@@ -1,2 +1,3 @@
 Postulating Schrodinger's equation
 
+[Notes] Remember to add Max Born's interpretation of |Ψ(x,t)|^2
